@@ -18,8 +18,8 @@ A simple web application to visualize how different sorting algorithms work.
 
 - HTML
 - CSS
-- JavaScript  
-(*Add React/Tailwind/etc. here if used*)
+- TypeScript  
+- React
 
 ## How to Run
 
